@@ -1,0 +1,4 @@
+deployment:
+  replicas: 4
+ingress:
+  host: minikube.local
